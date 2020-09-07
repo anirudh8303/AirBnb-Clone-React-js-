@@ -1,0 +1,10 @@
+.home_section1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+.home_section2 {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
